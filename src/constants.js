@@ -1,0 +1,1 @@
+export const TOTP_AUTHENTICATE = "totp/AUTHENTICATE2F"
